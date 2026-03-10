@@ -1,6 +1,6 @@
 const calendario = document.getElementById("calendario");
 
-const inicio = new Date(2026, 2, 23); // 19 de febrero 2026
+const inicio = new Date(2026, 1, 23); // 19 de febrero 2026
 inicio.setHours(0,0,0,0);
 
 const hoy = new Date();
